@@ -1,5 +1,5 @@
 # Online Workshop: Introduction to MDAnalysis and Molecular Nodes, February 2024
-Materials for the February 28, 2024 MDAnalysis and Molecular Nodes workshop.
+Materials for the February 28, 2024 MDAnalysis and Molecular Nodes workshop. The [recording](https://www.youtube.com/watch?v=3zKBjnRnAMg) of this workshop is available on the [MDAnalysis YouTube channel](https://www.youtube.com/@mdanalysis3040).
 
 ## Schedule
 
